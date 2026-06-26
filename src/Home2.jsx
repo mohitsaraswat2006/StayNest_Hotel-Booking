@@ -10,7 +10,7 @@ function Home2() {
                     <div id="hero-section2">
                         <button>WELCOME TO HOME</button>
                         <h1>Find Your Perfect<br />Place to Stay</h1>
-                        <p>Discover comfortable,affordable and verified rooms<br />across top cities .Your next home is a click away!</p>
+                        <p>Discover comfortable,affordable and verified rooms<br />across top cities. Your next home is a click away! BOOK NOW!</p>
                     </div>
                 </div>
                 <div className="hero-section3">
