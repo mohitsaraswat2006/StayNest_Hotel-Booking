@@ -9,7 +9,7 @@ function Home2() {
                     <img src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=2400&q=80" alt="Image is Loading...." />
                     <div id="hero-section2">
                         <button>WELCOME HOME</button>
-                        <h1>Find Your Perfect<br />Place to Stay.</h1>
+                        <h1>Find Your Perfect<br />Place to Stay</h1>
                         <p>Discover comfortable,affordable and verified rooms<br />across top cities .Your next home is a click away!</p>
                     </div>
                 </div>
