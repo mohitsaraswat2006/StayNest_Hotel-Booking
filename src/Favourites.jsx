@@ -1,14 +1,4 @@
 
-
-// function Favourites(){
-//     return(
-//         <>
-//         <h1>Favourites page.</h1>
-//         </>
-//     )
-// }
-
-// export default Favourites;
 import "./index.css";
 import { HotelRooms } from "./card.js";
 import { Star, MapPin, Heart, Trash2 } from 'lucide-react';

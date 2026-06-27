@@ -247,13 +247,6 @@ export const Cities = [
     image:
       "https://images.unsplash.com/photo-1502175353174-a7a70e73b362?auto=format&fit=crop&w=1200&q=80",
   },
-  // {
-  //   id: 4,
-  //   city: "Hyderabad",
-  //   rooms: "1,320+ Rooms",
-  //   image:
-  //     "https://images.unsplash.com/photo-1588416499018-d8c6218c6f2b?auto=format&fit=crop&w=1200&q=80",
-  // },
   {
     id: 5,
     city: "Austin",

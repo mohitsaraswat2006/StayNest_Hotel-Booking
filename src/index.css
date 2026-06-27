@@ -267,7 +267,7 @@ body {
 
 
 
-/* --- Preview Styling --- */
+/* Preview page */
 
 .preview-container-simple {
   max-width: 1000px;
@@ -398,7 +398,7 @@ body {
 }
 
 
-/* --- Favourites Page  --- */
+/* Favourites Page  */
 
 .fav-page-container {
   max-width: 1200px;
@@ -478,7 +478,7 @@ body {
 }
 
 
-/* --- About Us Page  --- */
+/* About Us Page   */
 
 .about-page-container {
   max-width: 1000px;
@@ -567,7 +567,7 @@ body {
 }
 
 
-/* --- Contact Page --- */
+/* Contact Page */
 
 .contact-page-container {
   max-width: 1050px;
@@ -711,11 +711,11 @@ body {
   }
 }
 
-/* ---------- Login Page ---------- */
+/* Login Page */
 
 .login-page{
     display: flex;
-    height: calc(100vh - 70px);   /* navbar ke niche */
+    height: calc(100vh - 70px);  
     background: #f8f6f7;
 }
 

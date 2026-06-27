@@ -41,4 +41,3 @@ function Home() {
 
 export default Home;
 
-// https://chatgpt.com/backend-api/estuary/content?id=file_000000002b3872069c5ac65570a054a0&ts=495091&p=fs&cid=1&sig=be857190faed13ad0eb4176f91e040b58a3fad25f4cab02f32805478965e2a20&v=0

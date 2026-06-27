@@ -1,14 +1,4 @@
 
-
-// function About(){
-//     return(
-//         <>
-//         <h1>About page.</h1>
-//         </>
-//     )
-// }
-
-// export default About;
 import "./index.css";
 import { ShieldCheck, Target, Heart } from 'lucide-react';
 
@@ -30,7 +20,6 @@ function About() {
                 </div>
             </div>
 
-            {/* Core Values Section (3 Simple Cards) */}
             <div className="about-values-grid">
                 
                 <div className="value-card">
